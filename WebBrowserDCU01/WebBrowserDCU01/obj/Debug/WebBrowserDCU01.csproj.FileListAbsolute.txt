@@ -1,0 +1,10 @@
+C:\Users\johan_lb\source\repos\WebBrowserDCU01\WebBrowserDCU01\bin\Debug\WebBrowserDCU01.exe.config
+C:\Users\johan_lb\source\repos\WebBrowserDCU01\WebBrowserDCU01\bin\Debug\WebBrowserDCU01.exe
+C:\Users\johan_lb\source\repos\WebBrowserDCU01\WebBrowserDCU01\bin\Debug\WebBrowserDCU01.pdb
+C:\Users\johan_lb\source\repos\WebBrowserDCU01\WebBrowserDCU01\obj\Debug\WebBrowserDCU01.csprojAssemblyReference.cache
+C:\Users\johan_lb\source\repos\WebBrowserDCU01\WebBrowserDCU01\obj\Debug\WebBrowserDCU01.Form1.resources
+C:\Users\johan_lb\source\repos\WebBrowserDCU01\WebBrowserDCU01\obj\Debug\WebBrowserDCU01.Properties.Resources.resources
+C:\Users\johan_lb\source\repos\WebBrowserDCU01\WebBrowserDCU01\obj\Debug\WebBrowserDCU01.csproj.GenerateResource.cache
+C:\Users\johan_lb\source\repos\WebBrowserDCU01\WebBrowserDCU01\obj\Debug\WebBrowserDCU01.csproj.CoreCompileInputs.cache
+C:\Users\johan_lb\source\repos\WebBrowserDCU01\WebBrowserDCU01\obj\Debug\WebBrowserDCU01.exe
+C:\Users\johan_lb\source\repos\WebBrowserDCU01\WebBrowserDCU01\obj\Debug\WebBrowserDCU01.pdb
